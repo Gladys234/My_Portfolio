@@ -7,9 +7,8 @@ const skills = [
   "Cybersecurity Fundamentals",
   "Ethical Hacking (Beginner)",
   "Networking (Beginner)",
-  "Framer Motion",
   "Python (Beginner)",
-  "Linux & Bash",
+  "Linux",
 ];
 
 export default skills;
